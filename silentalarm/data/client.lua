@@ -1,5 +1,5 @@
 local cooldown = 900 -- cooldown in seconds
-local webhook_addr = "https://discordapp.com/api/webhooks/473361887254544384/H7J2N_Ej-2cKY598QDCBx9J9tKoM1SDvp9ZO46cNWvznRf8Rb-zptURwZUYyJZLeS_Mj"
+local webhook_addr = "" -- read the readme for details
 
 local locations = {
 	{title="Grove Street LTD", colour=2, id=207, x = -42.935, y = -1749.469, z = 29.421, location="Grove Street and Davis Ave [near postal 246]"},
